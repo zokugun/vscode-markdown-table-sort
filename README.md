@@ -20,7 +20,6 @@ Commands
 | `> Markdown Table Sort: Text Asc`    | <kbd>Alt+T</kbd> <kbd>Down</kbd> |       ✅        |
 | `> Markdown Table Sort: Text Desc`   | <kbd>Alt+T</kbd> <kbd>Up</kbd>   |       ✅        |
 
-
 Configuration
 -------------
 
