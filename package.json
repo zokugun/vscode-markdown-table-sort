@@ -49,7 +49,7 @@
 		"@commitlint/config-conventional": "20.5.3",
 		"@types/node": "20.19.43",
 		"@types/vscode": "1.56.0",
-		"@vercel/ncc": "^0.38.3",
+		"@vercel/ncc": "0.44.0",
 		"@vscode/vsce": "3.9.2",
 		"fixpack": "4.0.0",
 		"husky": "9.1.7",

@@ -11,4 +11,4 @@ artifacts:
   "@daiyam/artifact-vsx-zokugun":
     version: 0.4.2
   "@daiyam/artifact-vsx-bundle-ncc":
-    version: 0.4.1
+    version: 0.4.2
